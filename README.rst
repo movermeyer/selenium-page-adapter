@@ -7,7 +7,7 @@ Selenium_ browser test abstraction.
 .. image:: https://travis-ci.org/tysonclugg/selenium_page_adapter.svg?branch=master
     :target: https://travis-ci.org/tysonclugg/selenium_page_adapter
     :alt: Build Status
-.. image:: https://pypip.in/v/selenium_page_adapter/badge.png
+.. image:: https://img.shields.io/pypi/v/selenium_page_adapter.svg
     :target: https://pypi.python.org/pypi/selenium_page_adapter/
     :alt: selenium_page_adapter on PyPi
 
